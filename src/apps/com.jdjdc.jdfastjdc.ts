@@ -1,7 +1,7 @@
 import { defineGkdApp } from '@gkd-kit/define';
 
 export default defineGkdApp({
-  id: 'com.jd.jdfastsjd',
+  id: 'com.jdjdc.jdfastjdc',
   name: '奶酪单词',
   groups: [
     {
