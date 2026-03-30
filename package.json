@@ -1,6 +1,6 @@
 {
-  "name": "@qingya6592/gkd_subscription",
-  "version": "1.0.2",
+  "name": "@qingyawilliam/gkd_subscription",
+  "version": "1.0.3",
   "type": "module",
   "gkd": {
     "outDir": "dist",
